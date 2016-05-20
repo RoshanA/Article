@@ -1,0 +1,69 @@
+html,body {
+	height:100%;
+	width:100%;
+	padding:0;
+	margin:0;
+	font-size:15px;
+	font-family:Garamond;
+}
+figure{
+	padding:0;
+	margin:0;
+	width:100%;
+	height:100%;
+}
+
+figcaption{
+	font-style:italic;
+	text-align:right;
+	margin-right:20px;
+}
+video {
+	width:100%;
+	height:56.25%;
+}
+header{
+	position:relative;
+}
+h1{ 
+	font-size:30px;
+	position:absolute;
+	top:50%;
+	text-align: center;
+	width:100%;
+	color:#fff;
+}
+
+p {
+    line-height: 22px;
+    padding-right: 50px;
+    margin-left:20%;
+    margin-right: 20%;
+    font-family:Garamond;
+}
+
+#chart{
+	text-align:center;
+}
+
+
+footer{
+	font-family:Arial;
+	font-size:13px;
+	color:#333;
+}
+
+#line
+{
+ width: 8%;
+ border-top: 1px solid black;
+}
+
+.byline{
+	font-family:Arial;
+	font-weight: bold;
+}
+.date{
+	font-family:Arial;
+	font-weight: bold;
+}
